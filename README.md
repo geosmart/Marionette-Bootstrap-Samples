@@ -1,8 +1,13 @@
 Marionette-Bootstrap-Startup
 ====================
 
-##1¡¢»ùÓÚBackBone.MarionetteºÍBootstrapµÄ¸öÈËÑ§Ï°ÊµÀı
-##2¡¢²¿ÊğÓÚtomcate/iisµÈweb·şÎñÆ÷ÔËĞĞ
+1. åŸºäºBackBone.Marionetteå’ŒBootstrapçš„ç¤ºä¾‹
+* éƒ¨ç½²äºtomcate/iisç­‰webæœåŠ¡å™¨è¿è¡Œ
+
+#### æ•ˆæœå›¾
+
+![ä¸»é¡µ](./res/screenshot/index.png)
 
 
+![å¼€å‘è€…æ–‡æ¡£](./res/screenshot/doc.png)
 
